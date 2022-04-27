@@ -1,4 +1,5 @@
 
+/* this program show the demonstration of calculator*/
 
 import java.util.Scanner;
 
